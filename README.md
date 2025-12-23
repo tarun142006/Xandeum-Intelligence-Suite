@@ -4,10 +4,10 @@ Project Ares: Xandeum Intelligence Suite
 Project Ares is a specialized analytics platform for the Xandeum Network. Unlike standard explorers, it provides real-time health telemetry, geo-spatial indexing, and consensus version analysis for pNodes.
 
  ⚡ Features
-* Live Gossip Tracking:** Monitoring pNodes via RPC.
-* Geo-Spatial Map:** Visualizing the physical decentralization of the network.
-* Consensus Health:** Identifying version fragmentation and offline nodes.
-* Simulation Mode:** Robust fallback protocol for Devnet instability.
+* Live Gossip Tracking: Monitoring pNodes via RPC.
+* Geo-Spatial Map: Visualizing the physical decentralization of the network.
+* Consensus Health: Identifying version fragmentation and offline nodes.
+* Simulation Mode: Robust fallback protocol for Devnet instability.
 
  🛠 Tech Stack
 * Core: Python 3.9+
@@ -24,5 +24,6 @@ Project Ares is a specialized analytics platform for the Xandeum Network. Unlike
 
 3. Launch the dashboard:
    streamlit run dashboard.py
+
 
 
