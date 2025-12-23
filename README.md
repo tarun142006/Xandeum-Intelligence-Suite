@@ -17,11 +17,12 @@ Project Ares is a specialized analytics platform for the Xandeum Network. Unlike
  🚀 How to Run Locally
 1. Clone the repo:
    bash
-   git clone 
+   git clone https://github.com/tarun142006/Xandeum-Intelligence-Suite.git
 
 2. Install dependencies:
    pip install -r requirements.txt
 
 3. Launch the dashboard:
    streamlit run dashboard.py
+
 
