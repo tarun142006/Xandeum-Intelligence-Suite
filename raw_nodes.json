@@ -1,0 +1,128 @@
+[
+    {
+        "pubkey": "49tRYDOAZA4k1n10r8SnwonSmlzgX6Z0VKHe5JgSwboS",
+        "gossip": "88.198.2.170:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": null
+    },
+    {
+        "pubkey": "uDHCZn5DiZ0hug5k3C2PrrTsJdGDGICRlNG8GHwgsItM",
+        "gossip": "128.199.22.85:8000",
+        "version": "1.18.0",
+        "shred_version": 50555,
+        "rpc": "128.199.22.85:8899"
+    },
+    {
+        "pubkey": "W7QHmZS8XNmA1EqXXepyLLfBnVXHnPKmLmOmMAhzbDlf",
+        "gossip": "139.162.1.45:8000",
+        "version": "1.18.0",
+        "shred_version": 50555,
+        "rpc": "139.162.1.45:8899"
+    },
+    {
+        "pubkey": "nwU9IiPQDh1WHbHfW4WhRICVzKqj2Zn2ausIyfajUYqp",
+        "gossip": "95.216.11.21:8000",
+        "version": "1.18.11",
+        "shred_version": 50555,
+        "rpc": "95.216.11.21:8899"
+    },
+    {
+        "pubkey": "1eRN7wC6fHcVpMAZH7xpVCxjuprcoW1lMcmtiihNn9c6",
+        "gossip": "128.199.22.112:8000",
+        "version": "1.18.0",
+        "shred_version": 50555,
+        "rpc": "128.199.22.112:8899"
+    },
+    {
+        "pubkey": "BOU3yb3qzBQO7USt1sMjPJ0ZTiLRb4DWrWNbwbpRDq91",
+        "gossip": "18.118.23.94:8000",
+        "version": "1.18.11",
+        "shred_version": 50555,
+        "rpc": null
+    },
+    {
+        "pubkey": "58S2PZOPL4VP6v0k8PVx4RwayQbuPK8vOwsfsF6czkda",
+        "gossip": "139.162.1.93:8000",
+        "version": "1.18.12",
+        "shred_version": 50555,
+        "rpc": null
+    },
+    {
+        "pubkey": "hle3Ry3ox0moTXghBRoruK7tL9Ctnl4QsDNbPFpmOc92",
+        "gossip": "18.118.23.150:8000",
+        "version": "1.18.12",
+        "shred_version": 50555,
+        "rpc": "18.118.23.150:8899"
+    },
+    {
+        "pubkey": "qIEuuhUYhfO7BWaJnpPb8Bt64xjnprHzzInEobuPW4h8",
+        "gossip": "139.162.1.115:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": "139.162.1.115:8899"
+    },
+    {
+        "pubkey": "RkYa1g5FTBBeI23BwLAXEZVNkx1HMDzQL7IyIvfb6nns",
+        "gossip": "163.44.11.232:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": "163.44.11.232:8899"
+    },
+    {
+        "pubkey": "qJE1yfodCDjregqrlPGAucIN2uM2T5lOInSaHRyij5BA",
+        "gossip": "78.46.12.17:8000",
+        "version": "1.18.0",
+        "shred_version": 50555,
+        "rpc": "78.46.12.17:8899"
+    },
+    {
+        "pubkey": "uI79Lqg4eEosOT1D3crNAN4kAiGPYrT1YYP1CyachPNy",
+        "gossip": "95.216.11.121:8000",
+        "version": "1.18.11",
+        "shred_version": 50555,
+        "rpc": "95.216.11.121:8899"
+    },
+    {
+        "pubkey": "7DUUyzu1Rd3sSc5hUo6M4eCTMWaTBNyK4D2ygRcoygfF",
+        "gossip": "18.118.23.222:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": null
+    },
+    {
+        "pubkey": "4j4ellHZBTJ2C86vEhTq6z4PRyd6eKgUVP6ExuVwifuC",
+        "gossip": "13.57.122.198:8000",
+        "version": "1.18.0",
+        "shred_version": 50555,
+        "rpc": "13.57.122.198:8899"
+    },
+    {
+        "pubkey": "e7XmkqWuSugBtmSw96znJpy6qYI4OQtV1Py3fCSCmPDV",
+        "gossip": "18.118.23.14:8000",
+        "version": "1.18.11",
+        "shred_version": 50555,
+        "rpc": "18.118.23.14:8899"
+    },
+    {
+        "pubkey": "mywYQKJnGyMRfOilZdYOcEmykNJ0IScgiiH87sbsIPYj",
+        "gossip": "13.57.122.146:8000",
+        "version": "1.18.12",
+        "shred_version": 50555,
+        "rpc": "13.57.122.146:8899"
+    },
+    {
+        "pubkey": "drRlfSUwy5oUYbjsuILcfYIt4abC6GALEVwgqlmrtNgJ",
+        "gossip": "150.95.11.32:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": "150.95.11.32:8899"
+    },
+    {
+        "pubkey": "42uabBW7qxY52L9vjhu7FOAS4PeLtCdMS9ldUdsImisY",
+        "gossip": "88.198.2.20:8000",
+        "version": "1.17.20",
+        "shred_version": 50555,
+        "rpc": null
+    }
+]
